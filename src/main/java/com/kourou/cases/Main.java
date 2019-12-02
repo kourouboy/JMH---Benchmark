@@ -1,7 +1,5 @@
 package com.kourou.cases;
-;
 
-import com.sun.xml.internal.bind.v2.model.core.ID;
 
 import java.io.File;
 import java.io.IOException;
